@@ -1,0 +1,59 @@
+# Xcode
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+
+# Unity
+FacebookIOS/Library
+FacebookIOS/Temp
+*.sln
+*.vcproject
+*.pidb
+*.csproj
+*.exe
+
+# Mac
+.DS_Store
+*.DS_Store
+**/.DS_Store
+**/**/.DS_Store
+
+# Git Conflicts
+*.BASE
+*.MINE
+*.OTHER
+
+# monodevelop project files
+*.csproj
+*/*csproj
+FacebookIOS/Assembly-CSharp-Editor-vs.csproj
+FacebookIOS/Assembly-CSharp-Editor.csproj
+FacebookIOS/Assembly-CSharp-firstpass-vs.csproj
+FacebookIOS/Assembly-CSharp-firstpass.pidb
+FacebookIOS/Assembly-CSharp-vs.csproj
+FacebookIOS/Assembly-CSharp.csproj
+FacebookIOS/Assembly-CSharp.pidb
+FacebookIOS/Assembly-UnityScript.pidb
+FacebookIOS/assembly-csharp-firstpass.csproj
+FacebookIOS/assembly-unityscript-vs.unityproj
+FacebookIOS/assembly-unityscript.unityproj
+FacebookIOS/Assembly-UnityScript-Editor-firstpass-vs.unityproj
+FacebookIOS/Assembly-UnityScript-Editor-firstpass.unityproj
+FacebookIOS/Assembly-UnityScript-firstpass-vs.unityproj
+FacebookIOS/Assembly-UnityScript-firstpass.unityproj
+FacebookIOS/Assembly-UnityScript-vs.unityproj
+FacebookIOS/Assembly-UnityScript.unityproj
+FacebookIOS/FacebookIOS.userprefs
+FacebookIOS/Assembly-Boo-vs.booproj
+FacebookIOS/Assembly-Boo.booproj
